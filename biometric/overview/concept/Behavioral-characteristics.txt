@@ -1,0 +1,4 @@
+Behavioral characteristics are related to the pattern of behavior of a person, including but not limited to typing rhythm, gait, keystroke, signature, behavioral profiling, and voice. Some researchers have coined the term 'behaviometrics' to describe the latter class of biometrics
+
+(wiki)
+

@@ -1,0 +1,5 @@
+Minutiae Based Techniques − In these minutiae points are found and then mapped to their relative position on finger. There are some difficulties such as if image is of low quality, then it is difficult to find minutiae points correctly. Another difficulty is, it considers local position of ridges and furrows; not global.
+
+Correlation Based Method − It uses richer gray scale information. It overcomes problems of minutiae-based method, by being able to work with bad quality data. But it has some of its own problems like localization of points.
+
+Pattern Based (Image Based) Matching − Pattern based algorithms compare the basic fingerprint patterns (arch, whorl, and loop) between a stored template and a candidate fingerprin

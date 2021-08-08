@@ -1,0 +1,5 @@
+Applications of Finger Recognition System
+Verification of driver-license authenticity.
+Checking validity of driving license.
+Border Control/Visa Issuance.
+Access control in organizations

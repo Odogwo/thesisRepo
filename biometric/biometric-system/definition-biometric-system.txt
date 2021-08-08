@@ -1,0 +1,5 @@
+A biometric system is a technology which takes an individual’s physiological, behavioral, or both traits as input, analyzes it, and identifies the individual as a genuine or malicious user
+
+{
+	https://www.tutorialspoint.com/biometrics/biometrics_overview.html
+}

@@ -1,0 +1,3 @@
+Hand geometry recognition works with the shape of a person’s hand characteristics. The hand geometry reader measures an individual’s hand in several dimensions. Then, it stores the data for further comparison and measurement.
+
+It is mostly popular for its comfort, easiness, and public acceptance. Nevertheless, this system isn’t very unique as like face or fingerprint recognition

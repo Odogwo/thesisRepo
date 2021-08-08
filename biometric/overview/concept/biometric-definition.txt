@@ -1,0 +1,28 @@
+involving the automated recognition of individuals by means of unique physical characteristics, typically for the purposes of security.
+"a biometric passport"
+
+relating to or involving the application of statistical analysis to biological data
+
+
+
+
+Biometrics are body measurements and calculations related to human characteristics
+
+(wiki)
+
+
+Biometric is the method of security where human iris, fingerprint or DNA is used as criteria for authentication of the individual.
+
+{http://silentscan.com/index.php?article=types-usage-and-modes-of-biometric-security-systems}
+
+
+
+Biometrics is a technology used to identify, analyze, and measure an individual’s physical and behavioral characteristics
+
+The term Biometrics is composed of two words − Bio (Greek word for Life) and Metrics (Measurements). Biometrics is a branch of information technology that aims towards establishing one’s identity based on personal traits.
+
+Biometrics is presently a buzzword in the domain of information security as it provides high degree of accuracy in identifying an individual
+
+{
+	https://www.tutorialspoint.com/biometrics/biometrics_overview.html
+}

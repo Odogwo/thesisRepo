@@ -1,0 +1,8 @@
+Proper biometric use is very application dependent. Certain biometrics will be better than others based on the required levels of convenience and security.[3] No single biometric will meet all the requirements of every possible application.[2]
+
+
+{
+jain, A. K.; Bolle, R.; Pankanti, S., eds. (1999). Biometrics: Personal Identification in Networked Society. Kluwer Academic Publications. ISBN 978-0-7923-8345-1.
+
+ Bleicher, Paul (2005). "Biometrics comes of age: despite accuracy and security concerns, biometrics are gaining in popularity". Applied Clinical Trials. Retrieved 6 December 2019.
+}

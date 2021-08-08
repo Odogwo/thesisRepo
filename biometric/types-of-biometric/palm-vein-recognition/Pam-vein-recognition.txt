@@ -1,0 +1,3 @@
+Pam vein recognition is one of the physiological types of biometrics that analyzes the unique patterns of the vein in the palms of an individual’s hand.
+
+As like other biometric technology, at first it captures an image of the individual’s palm, then analyze and process the vein data and store it for further comparison

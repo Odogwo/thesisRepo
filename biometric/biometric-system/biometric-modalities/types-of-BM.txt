@@ -1,0 +1,16 @@
+SEE Types
+
+
+
+There are various traits present in humans, which can be used as biometrics modalities. The biometric modalities fall under three types −
+
+1. Physiological
+2. Behavioral
+3. Combination of physiological and behavioral modality
+
+
+SEE /Phisiological
+
+SEE /Behaviorial
+
+SEE /combination

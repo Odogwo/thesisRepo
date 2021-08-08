@@ -1,0 +1,1 @@
+DNA biometric is quite different from standard biometric modalities. It requires tangible physical sample and couldn’t be done in real time. It is a recognition technology with very high accuracy.

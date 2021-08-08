@@ -1,0 +1,13 @@
+Physiological biometrics are including fingerprint, iris, face, palm vein recognition
+
+{https://biometrictoday.com/types-of-biometrics/?__cf_chl_managed_tk__=pmd_b73d6abcb6196a9f90b6508547066413d36615eb-1628429058-0-gqNtZGzNAs2jcnBszQiO}
+
+
+
+As depicted earlier, the physiological modalities are based on the direct measurement of parts of human body such as iris, fingerprint, shape, and position of fingers, etc.
+
+There are some physical traits which remain unaltered throughout a person’s life. They can be an excellent resource for identification of an individual.
+
+{
+	https://www.tutorialspoint.com/biometrics/physiological_modalities.htm
+}

@@ -1,0 +1,7 @@
+Each human being is unique in terms of characteristics, which make him or her different from all others. The physical attributes such as finger prints, color of iris, color of hair, hand geometry, and behavioral characteristics such as tone and accent of speech, signature, or the way of typing keys of computer keyboard etc., make a person stand separate from the rest.
+
+This uniqueness of a person is then used by the biometric systems to −
+
+Identify and verify a person.
+Authenticate a person to give appropriate rights of system operations.
+Keep the system safe from unethical handling

@@ -1,0 +1,1 @@
+Signature recognition is one of the behavior types of biometrics. It works in two ways, static and dynamic. In this recognition system, the way an individual signs his name is counted as the characteristic of that person. It is based on metrics like number of interior contours and number of vertical slope components.

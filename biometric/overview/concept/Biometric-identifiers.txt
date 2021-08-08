@@ -1,0 +1,5 @@
+Biometric identifiers are the distinctive, measurable characteristics used to label and describe individuals
+
+Biometric identifiers are often categorized as physiological characteristics, which are related to the shape of the body. Examples include, but are not limited to fingerprint, palm veins, face recognition, DNA, palm print, hand geometry, iris recognition, retina and odor/scent
+
+(wiki)

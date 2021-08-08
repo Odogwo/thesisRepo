@@ -1,0 +1,23 @@
+Types of biometric system:
+
+	Physiological: Examples are: fingerprint, DNA, iris, hand or palm geometry, etc.
+
+	Behavioral: Typing rhythm, voice, gait, etc.
+
+	General modes of operation:
+
+		Verification: This is a method of comparison in which an individual is identified by the system with comparing the current input and an existing database.
+
+		Identification: In this the comparison is in the form of one to many, where any new user comes into the system, the database in updated with the required information.
+
+
+All biometric modalities are basically two types; 
+	physiological and 
+	behavioral. 
+
+
+SEE /behaviour-biometrics
+
+
+Combined Biomertrics
+	Voice/speech recognition

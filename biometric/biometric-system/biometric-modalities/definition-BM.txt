@@ -1,0 +1,1 @@
+A biometric modality is nothing but a category of a biometric system depending upon the type of human trait it takes as input.

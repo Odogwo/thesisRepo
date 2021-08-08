@@ -1,0 +1,14 @@
+
+There are four general steps a biometric system takes to perform identification and verification −
+
+1. Acquire live sample from candidate. (using sensors)
+2. Extract prominent features from sample. (using processing unit)
+3. Compare live sample with samples stored in database. (using algorithms)
+4. Present the decision. (Accept or reject the candidate.)
+
+
+
+The biometric sample is acquired from candidate user. The prominent features are extracted from the sample and it is then compared with all the samples stored in the database. When the input sample matches with one of the samples in the database, the biometric system allows the person to access the resources; otherwise prohibits
+
+
+SEE steps.PNG

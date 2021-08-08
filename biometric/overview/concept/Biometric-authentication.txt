@@ -1,0 +1,10 @@
+Biometric authentication (or realistic authentication) is used in computer science as a form of identification and access control. It is also used to identify individuals in groups that are under surveillance.
+
+(wiki)
+
+
+
+Many different aspects of human physiology, chemistry or behavior can be used for biometric authentication. 
+
+
+(wiki)

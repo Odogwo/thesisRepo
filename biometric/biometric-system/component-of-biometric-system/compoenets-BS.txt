@@ -1,0 +1,36 @@
+Basic Components of a Biometric System
+In general, a biometric system can be divided into four basic components. Let us see them briefly −
+
+
+
+SEE 4-componets.PNG
+
+
+
+Input Interface (Sensors)
+It is the sensing component of a biometrics system that converts human biological data into digital form.
+
+For example,
+
+	A Metal Oxide Semiconductor (CMOS) imager or a Charge Coupled Device (CCD) in the case of face recognition, handprint recognition, or iris/retinal recognition systems.
+
+	An optical sensor in case of fingerprint systems.
+	A microphone in case of voice recognition systems.
+
+
+Processing Unit
+The processing component is a microprocessor, Digital Signal Processor (DSP), or computer that processes the data captured from the sensors.
+
+The processing of the biometric sample involves −
+
+	Sample image enhancement
+	Sample image normalization
+	Feature extraction
+	Comparison of the biometric sample with all stored samples in database.
+
+
+Database Store
+The database stores the enrolled sample, which is recalled to perform a match at the time of authentication. For identification, there can be any memory from Random Access Memory (RAM), flash EPROM, or a data server. For verification, a removable storage element like a contact or contactless smart card is used.
+
+Output Interface
+The output interface communicates the decision of the biometric system to enable the access to the user. This can be a simple serial communication protocol RS232, or the higher bandwidth USB protocol. It could also be TCP/IP protocol, Radio Frequency Identification (RFID), Bluetooth, or one of the many cellular protocols.

@@ -1,0 +1,18 @@
+Usage:
+
+IT Industry:
+
+	The main usage of biometric in IT industry is to identify the professionals entering and exiting the company at any time. IT industry is a large organization where many users to traverse the compounds. Due to the presence of terrorist activities across the world it is a very important to record the movements of individual inside the company premises and authentication of the particular company individual.
+
+Schemes for public:
+
+	The government when providing some schemes for the people would like to keep track of the individuals who have received it, which is done by using biometrics like fingerprint.
+
+Ticketing system:
+
+	Frequent travel users in train or bus can be given a privilege by giving discounts. In order to ensure that only those individuals are enjoying the privileges, biometrics can be used. In U.S. this system has been implemented.
+
+
+	Biometric has a greater advantage than ID cards since it directly authenticates the user than verifying the data on the printed card.
+
+	It is easy to make a duplicate card, if the information of the individual is available, but in biometric it's not possible to duplicate a persons fingerprint or iris. Hence it is difficult to foolproof a biometric authentication.

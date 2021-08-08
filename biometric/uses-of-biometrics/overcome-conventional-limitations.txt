@@ -1,0 +1,9 @@
+Shortcomings of Conventional Security Aids
+The conventional methods of information system security used ID cards, passwords, Personal Identification Numbers (PINs), etc. They come with the following disadvantages −
+
+They all mean recognizing some code associated with the person rather than recognizing the person who actually produced it.
+
+They can be forgotten, lost, or stolen.
+They can be bypassed or easily compromised.
+They are not precise.
+In such cases, the security of the system is threatened. When the systems need high level of reliable protection, biometrics comes to help by binding the identity more oriented to individual

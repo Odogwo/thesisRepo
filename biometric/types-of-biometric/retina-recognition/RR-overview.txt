@@ -1,0 +1,1 @@
+Retina recognition is a biometric modality that uses infrared technology to capture the unique patterns of an individual’s retina blood vessels. As an internal organ of the eye and protected from external environments, retina recognition is recognized as a reliable biometric authentication system

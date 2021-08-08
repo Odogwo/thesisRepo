@@ -1,0 +1,11 @@
+Application Areas of Biometrics
+There are a number of applications where biometric systems are useful. Few of them are given below −
+
+Controlling workplace access.
+Identity establishment of people for authentic citizenship and immigration systems.
+
+Applying access control to sensitive information and systems.
+Identifying criminals by forensics.
+Executing online e-commerce transactions.
+Fraud and theft reduction.
+Law enforcement

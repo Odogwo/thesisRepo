@@ -1,0 +1,9 @@
+Types of biometric popularly used:
+
+· Fingerprints
+· hand geometry
+· retina
+· iris
+· face
+· signature
+· Voice

@@ -1,0 +1,17 @@
+The selection of a particular biometric for use in a specific application involves a weighting of several factors. Jain et al. (1999)[2] identified seven such factors to be used when assessing the suitability of any trait for use in biometric authentication.
+
+Universality means that every person using a system should possess the trait.
+
+Uniqueness means the trait should be sufficiently different for individuals in the relevant population such that they can be distinguished from one another.
+
+Permanence relates to the manner in which a trait varies over time. More specifically, a trait with 'good' permanence will be reasonably invariant over time with respect to the specific matching algorithm.
+
+Measurability (collectability) relates to the ease of acquisition or measurement of the trait. In addition, acquired data should be in a form that permits subsequent processing and extraction of the relevant feature sets.
+
+Performance relates to the accuracy, speed, and robustness of technology used (see performance section for more details).
+
+Acceptability relates to how well individuals in the relevant population accept the technology such that they are willing to have their biometric trait captured and assessed.
+
+Circumvention relates to the ease with which a trait might be imitated using an artifact or substitute.
+
+(wiki)

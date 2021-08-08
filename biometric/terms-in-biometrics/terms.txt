@@ -1,0 +1,10 @@
+Biometrics is used for authenticating and authorizing a person. Though these terms are often coupled; they mean different.
+
+Authentication (Identification)
+This process tries to find out answer of question, “Are you the same who you are claiming to be?”, or, “Do I know you?” This is one-to-many matching and comparison of a person’s biometrics with the whole database.
+
+Verification
+This is the one-to-one process of matching where live sample entered by the candidate is compared with a previously stored template in the database. If both are matching with more than 70% agreeable similarity, then the verification is successful.
+
+Authorization
+It is the process of assigning access rights to the authenticated or verified users. It tries to find out the answer for the question, “Are you eligible to have certain rights to access this resource?”

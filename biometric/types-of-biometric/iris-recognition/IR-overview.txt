@@ -1,0 +1,7 @@
+Many recognize Iris recognition as the best biometric technology for identification. It analyzes the iris characteristics including rings, furrows, freckles that is situated in the colored tissue around the pupil. The iris scanner that contains a video camera and works through glasses and contact lenses.
+
+Generally, iris recognition can be done by two methods:
+
+	Daugman System and
+	Wildes System
+Iris recognition is deployed by many countries in crucial places like border crossings, banking, private companies, institutes, law enforcement agencies etc.

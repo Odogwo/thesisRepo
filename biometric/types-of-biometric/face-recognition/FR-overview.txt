@@ -1,0 +1,3 @@
+Face recognition technique records face images through a digital video camera and analyses facial characteristics like the distance between eyes, nose, mouth, and jaw edges. These measurements are broken into facial planes and retained in a database, further used for comparison.
+
+Then, the system creates a template on the database for that person to compare the data for further uses

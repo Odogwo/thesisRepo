@@ -1,0 +1,1 @@
+Handwritten biometric recognition is close to signature recognition and undoubtedly a behavior type of biometrics. It is a system of recognizing a person by his handwriting procedure. As like signature recognition it can also be categorized in two parts, static and dynamic

@@ -1,0 +1,24 @@
+Biometric Template − It is a digital reference of the distinct characteristics that are extracted from a biometric sample.
+
+Candidate/Subject − A person who enters his biometric sample.
+
+Closed-Set Identification − The person is known to be existing in the database.
+
+Enrollment − It is when a candidate uses a biometric system for the first time, it records the basic information such as name, address, etc. and then records the candidate’s biometric trait.
+
+False Acceptance Rate (FAR) − It is the measure of possibility that a biometric system will incorrectly identify an unauthorized user as a valid user.
+
+FAR = 
+Number of False Acceptances
+Number of Identification Attempts
+A biometric system providing low FAR ensures high security.
+
+False Reject Rate (FRR) − It is the measure of possibility that the biometric system will incorrectly reject an authorized user as an invalid user.
+
+FRR = 
+Number of False Rejections/
+Number of Identification Attempts
+
+Open-Set Identification − The person is not guaranteed to be existing in the database.
+
+Task − It is when the biometric system searches the database for matching sample

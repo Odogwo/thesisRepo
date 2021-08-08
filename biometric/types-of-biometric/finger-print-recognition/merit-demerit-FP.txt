@@ -1,0 +1,14 @@
+Merits of Finger Recognition System
+It is the most contemporary method.
+It is most economical method.
+It is highly reliable and secure.
+It works on a small template size, which speeds up the verifying process.
+It consumes less memory space.
+
+
+
+Demerits of Finger Recognition System
+Scars, cuts or absence of finger can hinder the recognition process.
+The systems can be fooled by using artificial finger made of wax.
+It involves physical contact with the system.
+They leave the pattern of finger behind at the time of entering sample.

@@ -1,0 +1,12 @@
+Fingerprint recognition technology has been done by taking a photograph of an individual’s fingertips and record the characteristics including whorls, arches, and loops of the fingertip.
+
+It also captures the patterns of ridges, furrows, and minutiae for accurate analysis.
+
+The process can be done in three ways:
+
+	Minutae based
+	Correlation based
+	Ridge feature based
+
+
+The fingerprint is a very secured, reliable and stable biometric solution. Law enforcement agencies have been using this technology for decades to identify criminals. Currently, this technology is becoming popular in household security, banking, workforce management etc
